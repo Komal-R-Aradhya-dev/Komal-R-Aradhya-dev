@@ -47,5 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-r-aradhya-dev&" alt="komal-r-aradhya-dev" /></p>
 <p align="center">
-  <img src="https://github.com/Komal-R-Aradhya-dev/Komal-R-Aradhya-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Komal-R-Aradhya-dev/Komal-R-Aradhya-dev/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
