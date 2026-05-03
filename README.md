@@ -49,4 +49,14 @@
 <p align="center">
   <img src="https://github.com/Komal-R-Aradhya-dev/Komal-R-Aradhya-dev/blob/output/github-contribution-grid-snake.svg" />
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komal-r-aradhya-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Komal-R-Aradhya-dev/Komal-R-Aradhya-dev/output/github-contribution-grid-snake.svg" />
+</p>
