@@ -1,58 +1,81 @@
 <h1 align="center">Hi 👋, I'm Komal R Aradhya</h1>  
-<h3 align="center">A passionate Software Developer & Quant Engineering Enthusiast</h3>  
-
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Komal+R+Aradhya;Software+%7C+MERN+Developer;Turning+Ideas+Into+Clean+Code;Learning+DSA+%7C+Building+Real+Projects;Consistency+%3E+Motivation" alt="Typing SVG" />  
-</p>
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ3ZWJmN2M2N2VjN2I0ZWYxNDU5OWI2M2QxMGM3ZGFmODI4YjYxZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />  
-</p>
+<h3 align="center">Systems Architecture // Quantitative Engineering // Low-Latency</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komal-r-aradhya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-* 🎓 I'm currently pursuing my Bachelor of Engineering at **Siddaganga Institute of Technology (SIT)**.
-* 🚀 I’m currently building **NeuroTrace AI** and working on cutting-edge software development.
-* 🌱 I’m actively pushing my limits through a **100 Days of Python Challenge**, documenting daily progress.
-* ⚙️ I have a strong interest in **Robotics & IoT**, regularly working with ESP32, Arduino, and building smart systems like automated street lighting.
-* 🤝 I’m looking to collaborate on **System Design, Quant Engineering, and Developer Tools** (especially with my peers over at SysQuant!).
-* ✍️ I enjoy creating clean, professional technical documentation using **LaTeX**.
-* ⚡ **Fun fact:** When I'm not writing code or wiring up microcontrollers, you can probably catch me keeping up with professional wrestling.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,c,cpp,arduino,linux,latex,git,github&perline=7" alt="Tech Stack" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/Let's_Chat-000000?style=for-the-badge&logo=linkedin&logoColor=00E7FF&borderColor=00E7FF" alt="Chat Effect" />
   </a>
 </p>
 
----
+<p align="center">  
+  <a href="https://github.com/komal-r-aradhya-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Quantitative+Engineering+%7C+Low-Latency;C%2B%2B+Limit+Order+Books+%7C+Python+Algorithms;Mastering+Market+Microstructure;Monk+Mode:+21-Hour+Deep+Work+Protocol;Consistency+%3E+Motivation" alt="Typing SVG" />  
+  </a>
+</p>  
 
-### 📊 GitHub Stats
+<p align="center">  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ3ZWJmN2M2N2VjN2I0ZWYxNDU5OWI2M2QxMGM3ZGFmODI4YjYxZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Compiling Quant Systems" />  
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=komal-r-aradhya-dev&label=SYSTEM%20PINGS&color=00E7FF&style=for-the-badge" alt="Profile Views" />  
+</p>
+
+<br/>
+
+## 🦅 The AlphaSys Directive
+
+I am an Engineering undergraduate at Siddaganga Institute of Technology (SIT) specializing in backend data structures, systems architecture, and algorithmic logic. My primary focus is building the mathematical and programmatic foundations required for High-Frequency Trading (HFT) and Quantitative Engineering.
+
+- ⚡ **Current Focus:** Deep Python state management, OOP, and transitioning into the C++ Crucible.
+- 🚀 **Active Execution:** 100 Days of Algorithmic Code (Focusing on logic derivation, not syntax copying).
+- ⚙️ **Domain Interests:** Market Microstructure, < 2us Latency Systems, Applied Probability, and Hardware/IoT (ESP32).
+- 🎓 **Academics:** Maintaining an elite 9.70+ CGPA baseline while independently mastering low-level systems.
+- 🤝 **Alliance:** Co-founder of AlphaSys – A dual-engineer protocol dedicated to 21-hour weekly deep-work execution.
+
+<br/>
+
+## 🛠️ The Core Stack
+
+I do not build frontends. I build systems, memory-safe environments, and hardware logic.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal-r-aradhya-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Komal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-r-aradhya-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Komal's GitHub Streak" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,arduino,latex,git,github" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 Execution Metrics
+
+<p align="center">
+  <a href="https://github.com/komal-r-aradhya-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=komal-r-aradhya-dev&theme=catppuccin_frappe&show_icons=true&count_private=true&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/komal-r-aradhya-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-r-aradhya-dev&theme=catppuccin-frappe&hide_border=true&border_radius=10&short_numbers=true" width="48%" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-r-aradhya-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <a href="https://github.com/komal-r-aradhya-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-r-aradhya-dev&theme=catppuccin_frappe&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" width="60%" alt="Top Languages"/>
+  </a>
 </p>
 
----
-
-### 📫 Connect With Me
+<br/>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/komal-r-aradhya-dev/komal-r-aradhya-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/komal-r-aradhya-dev/komal-r-aradhya-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/komal-r-aradhya-dev/komal-r-aradhya-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </p>
