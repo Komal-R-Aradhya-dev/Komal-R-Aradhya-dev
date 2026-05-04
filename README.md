@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋, I'm Komal R Aradhya</h1>  
-<h3 align="center">Systems Architecture // Quantitative Engineering // Low-Latency</h3>  
-
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/Let's_Chat-000000?style=for-the-badge&logo=linkedin&logoColor=00E7FF&borderColor=00E7FF" alt="Chat Effect" />
-  </a>
+  <img src="chat.svg" alt="AlphaSys Chat" width="800" />
 </p>
-
-<p align="center">  
-  <a href="https://github.com/komal-r-aradhya-dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Quantitative+Engineering+%7C+Low-Latency;C%2B%2B+Limit+Order+Books+%7C+Python+Algorithms;Mastering+Market+Microstructure;Monk+Mode:+21-Hour+Deep+Work+Protocol;Consistency+%3E+Motivation" alt="Typing SVG" />  
-  </a>
-</p>  
 
 <p align="center">  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ3ZWJmN2M2N2VjN2I0ZWYxNDU5OWI2M2QxMGM3ZGFmODI4YjYxZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Compiling Quant Systems" />  
@@ -29,7 +18,7 @@ I am an Engineering undergraduate at Siddaganga Institute of Technology (SIT) sp
 
 - ⚡ **Current Focus:** Deep Python state management, OOP, and transitioning into the C++ Crucible.
 - 🚀 **Active Execution:** 100 Days of Algorithmic Code (Focusing on logic derivation, not syntax copying).
-- ⚙️ **Domain Interests:** Market Microstructure, < 2us Latency Systems, Applied Probability, and Hardware/IoT (ESP32).
+- ⚙️ **Domain Interests:** Market Microstructure, < 2us Latency Systems, Applied Probability, and Hardware/IoT.
 - 🎓 **Academics:** Maintaining an elite 9.70+ CGPA baseline while independently mastering low-level systems.
 - 🤝 **Alliance:** Co-founder of AlphaSys – A dual-engineer protocol dedicated to 21-hour weekly deep-work execution.
 
