@@ -36,25 +36,23 @@ I do not build frontends. I build systems, memory-safe environments, and hardwar
 
 <br/>
 
+
 ## 📊 Execution Metrics
 
 <p align="center">
-  <a href="https://github.com/komal-r-aradhya-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=komal-r-aradhya-dev&theme=catppuccin_frappe&show_icons=true&count_private=true&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats"/>
+  <a href="https://github.com/Komal-R-Aradhya-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Komal-R-Aradhya-dev&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=10&v=alpha1" width="48%" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/komal-r-aradhya-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-r-aradhya-dev&theme=catppuccin-frappe&hide_border=true&border_radius=10&short_numbers=true" width="48%" alt="GitHub Streak"/>
+  <a href="https://github.com/Komal-R-Aradhya-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-R-Aradhya-dev&theme=dark&hide_border=true&border_radius=10&short_numbers=true&v=alpha1" width="48%" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/komal-r-aradhya-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-r-aradhya-dev&theme=catppuccin_frappe&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" width="60%" alt="Top Languages"/>
+  <a href="https://github.com/Komal-R-Aradhya-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-R-Aradhya-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&v=alpha1" width="60%" alt="Top Languages"/>
   </a>
 </p>
-
-<br/>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/komal-r-aradhya-dev/komal-r-aradhya-dev/output/github-contribution-grid-snake-dark.svg">
