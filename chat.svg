@@ -1,42 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
   <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
     <style>
-      .text {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 18px;
-        fill: #e6edf3;
-      }
-      .title {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 24px;
-        font-weight: bold;
-        fill: #ffffff;
-      }
-      .bubble { fill: #2d3139; }
-      .tail { fill: #2d3139; }
+      .header-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: 800; fill: #ffffff; letter-spacing: 0.5px; }
+      .body-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 16px; fill: #c9d1d9; font-weight: 500; }
+      .mono-text { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-size: 15px; fill: #00E7FF; font-weight: 700; }
       
-      .b1 { opacity: 0; animation: slideIn 0.5s ease forwards 0.5s; }
-      .t1 { opacity: 0; animation: typeHide 1.5s ease forwards 1.2s; }
-      .b2 { opacity: 0; animation: slideIn 0.5s ease forwards 2.7s; }
-      .t2 { opacity: 0; animation: typeHide 1.5s ease forwards 3.4s; }
-      .b3 { opacity: 0; animation: slideIn 0.5s ease forwards 4.9s; }
+      .bubble { fill: #21262d; filter: url(#shadow); stroke: #30363d; stroke-width: 1px; }
+      .bubble-highlight { fill: #21262d; filter: url(#shadow); stroke: #00E7FF; stroke-width: 1.5px; }
+      .tail { fill: #21262d; }
+
+      /* Extended 4-Stage Animation Sequence */
+      .b1 { opacity: 0; animation: popIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards 0.5s; }
+      .t1 { opacity: 0; animation: typeHide 1.6s ease forwards 1.2s; }
       
-      @keyframes slideIn {
-        from { opacity: 0; transform: translateY(10px); }
-        to { opacity: 1; transform: translateY(0); }
+      .b2 { opacity: 0; animation: popIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards 2.8s; }
+      .t2 { opacity: 0; animation: typeHide 1.8s ease forwards 3.5s; }
+      
+      .b3 { opacity: 0; animation: popIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards 5.3s; }
+      .t3 { opacity: 0; animation: typeHide 2.0s ease forwards 6.0s; }
+      
+      .b4 { opacity: 0; animation: popIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards 8.0s; }
+
+      @keyframes popIn {
+        0% { opacity: 0; transform: translateY(15px) scale(0.95); transform-origin: bottom left; }
+        100% { opacity: 1; transform: translateY(0) scale(1); transform-origin: bottom left; }
       }
       @keyframes typeHide {
-        0% { opacity: 0; transform: translateY(10px); }
-        10% { opacity: 1; transform: translateY(0); }
-        90% { opacity: 1; transform: translateY(0); }
+        0% { opacity: 0; transform: translateY(10px) scale(0.95); transform-origin: bottom left; }
+        10% { opacity: 1; transform: translateY(0) scale(1); transform-origin: bottom left; }
+        90% { opacity: 1; transform: translateY(0) scale(1); transform-origin: bottom left; }
         100% { opacity: 0; transform: translateY(0); visibility: hidden; }
       }
-      
-      .dot { fill: #8b949e; }
-      .dot1 { animation: bounce 1s infinite ease-in-out both; animation-delay: 0s; }
-      .dot2 { animation: bounce 1s infinite ease-in-out both; animation-delay: 0.15s; }
-      .dot3 { animation: bounce 1s infinite ease-in-out both; animation-delay: 0.3s; }
-      
+
+      .dot { fill: #00E7FF; }
+      .dot1 { animation: bounce 1.2s infinite ease-in-out both; animation-delay: 0s; }
+      .dot2 { animation: bounce 1.2s infinite ease-in-out both; animation-delay: 0.15s; }
+      .dot3 { animation: bounce 1.2s infinite ease-in-out both; animation-delay: 0.3s; }
+
       @keyframes bounce {
         0%, 80%, 100% { transform: translateY(0); }
         40% { transform: translateY(-5px); }
@@ -44,45 +47,62 @@
     </style>
   </defs>
 
-  <text x="20" y="40" class="title">Hi there 👋</text>
+  <text x="35" y="35" class="header-text">System_Log: AlphaSys <tspan fill="#00E7FF">✓</tspan></text>
 
-  <!-- Bubble 1 -->
+  <!-- Bubble 1: Introduction -->
   <g class="b1">
-    <rect x="30" y="70" width="280" height="46" rx="23" class="bubble" />
-    <path d="M30 93 C 30 116, 15 116, 15 116 C 25 116, 30 106, 30 93 Z" class="tail" />
-    <text x="50" y="99" class="text">Hi, I'm Komal R Aradhya</text>
+    <rect x="35" y="60" width="380" height="46" rx="20" class="bubble" />
+    <path d="M35 83 C 35 106, 15 106, 15 106 C 25 106, 35 96, 35 83 Z" class="tail" />
+    <text x="55" y="88" class="body-text">Initiating Protocol... 👋 I'm Komal R Aradhya</text>
   </g>
 
   <!-- Typing Indicator 1 -->
   <g class="t1">
-    <rect x="30" y="126" width="70" height="36" rx="18" class="bubble" />
-    <path d="M30 144 C 30 162, 15 162, 15 162 C 25 162, 30 154, 30 144 Z" class="tail" />
-    <circle cx="48" cy="144" r="4" class="dot dot1" />
-    <circle cx="65" cy="144" r="4" class="dot dot2" />
-    <circle cx="82" cy="144" r="4" class="dot dot3" />
+    <rect x="35" y="118" width="75" height="38" rx="19" class="bubble" />
+    <path d="M35 137 C 35 156, 15 156, 15 156 C 25 156, 35 147, 35 137 Z" class="tail" />
+    <circle cx="55" cy="137" r="4.5" class="dot dot1" />
+    <circle cx="72" cy="137" r="4.5" class="dot dot2" />
+    <circle cx="89" cy="137" r="4.5" class="dot dot3" />
   </g>
 
-  <!-- Bubble 2 (Replaces T1) -->
+  <!-- Bubble 2: The Core Identity -->
   <g class="b2">
-    <rect x="30" y="126" width="530" height="74" rx="23" class="bubble" />
-    <path d="M30 163 C 30 200, 15 200, 15 200 C 25 200, 30 180, 30 163 Z" class="tail" />
-    <text x="50" y="155" class="text">SIT Engineering | 9.70+ CGPA Baseline</text>
-    <text x="50" y="181" class="text">Systems Architecture // Quant Engineering</text>
+    <rect x="35" y="118" width="480" height="74" rx="20" class="bubble" />
+    <path d="M35 169 C 35 192, 15 192, 15 192 C 25 192, 35 182, 35 169 Z" class="tail" />
+    <text x="55" y="146" class="body-text">Architecting Quantitative &amp; Low-Latency Systems</text>
+    <text x="55" y="174" class="body-text">Core Focus: <tspan fill="#ffffff" font-weight="700">Market Microstructure</tspan> &amp; Algorithmic Logic</text>
   </g>
 
   <!-- Typing Indicator 2 -->
   <g class="t2">
-    <rect x="30" y="210" width="70" height="36" rx="18" class="bubble" />
-    <path d="M30 228 C 30 246, 15 246, 15 246 C 25 246, 30 238, 30 228 Z" class="tail" />
-    <circle cx="48" cy="228" r="4" class="dot dot1" />
-    <circle cx="65" cy="228" r="4" class="dot dot2" />
-    <circle cx="82" cy="228" r="4" class="dot dot3" />
+    <rect x="35" y="204" width="75" height="38" rx="19" class="bubble" />
+    <path d="M35 223 C 35 242, 15 242, 15 242 C 25 242, 35 233, 35 223 Z" class="tail" />
+    <circle cx="55" cy="223" r="4.5" class="dot dot1" />
+    <circle cx="72" cy="223" r="4.5" class="dot dot2" />
+    <circle cx="89" cy="223" r="4.5" class="dot dot3" />
   </g>
 
-  <!-- Bubble 3 (Replaces T2) -->
+  <!-- Bubble 3: The Mantra -->
   <g class="b3">
-    <rect x="30" y="210" width="410" height="46" rx="23" class="bubble" />
-    <path d="M30 233 C 30 256, 15 256, 15 256 C 25 256, 30 246, 30 233 Z" class="tail" />
-    <text x="50" y="239" class="text">Building Low-Latency C++ Engines</text>
+    <rect x="35" y="204" width="370" height="46" rx="20" class="bubble" />
+    <path d="M35 227 C 35 250, 15 250, 15 250 C 25 250, 35 240, 35 227 Z" class="tail" />
+    <text x="55" y="232" class="mono-text">> System.out: Consistency > Motivation.</text>
+  </g>
+
+  <!-- Typing Indicator 3 -->
+  <g class="t3">
+    <rect x="35" y="262" width="75" height="38" rx="19" class="bubble" />
+    <path d="M35 281 C 35 300, 15 300, 15 300 C 25 300, 35 291, 35 281 Z" class="tail" />
+    <circle cx="55" cy="281" r="4.5" class="dot dot1" />
+    <circle cx="72" cy="281" r="4.5" class="dot dot2" />
+    <circle cx="89" cy="281" r="4.5" class="dot dot3" />
+  </g>
+
+  <!-- Bubble 4: The Flex (Highlighted) -->
+  <g class="b4">
+    <rect x="35" y="262" width="450" height="74" rx="20" class="bubble-highlight" />
+    <path d="M35 313 C 35 336, 15 336, 15 336 C 25 336, 35 326, 35 313 Z" class="tail" />
+    <text x="55" y="290" class="body-text">Status: Active in the C++ Crucible ⚡</text>
+    <text x="55" y="318" class="body-text">Targeting <tspan class="mono-text">&lt; 2μs</tspan> Execution Engines.</text>
   </g>
 </svg>
