@@ -19,8 +19,7 @@ I am an Engineering undergraduate at Siddaganga Institute of Technology (SIT) sp
 - ⚡ **Current Focus:** Deep Python state management, OOP, and transitioning into the C++ Crucible.
 - 🚀 **Active Execution:** 100 Days of Algorithmic Code (Focusing on logic derivation, not syntax copying).
 - ⚙️ **Domain Interests:** Market Microstructure, < 2us Latency Systems, Applied Probability, and Hardware/IoT.
-- 🎓 **Academics:** Maintaining an elite 9.70+ CGPA baseline while independently mastering low-level systems.
-- 🤝 **Alliance:** Co-founder of AlphaSys – A dual-engineer protocol dedicated to 21-hour weekly deep-work execution.
+- 🎓 **Academics:** Maintaining an  9.50+ CGPA baseline while independently mastering low-level systems.
 
 <br/>
 
@@ -35,6 +34,8 @@ I do not build frontends. I build systems, memory-safe environments, and hardwar
 </p>
 
 <br/>
+
+
 
 
 
