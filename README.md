@@ -14,16 +14,26 @@
 
 ## 🦅 The AlphaSys Directive
 
-I am an Engineering undergraduate at Siddaganga Institute of Technology (SIT) specializing in backend data structures, systems architecture, and algorithmic logic. My primary focus is building the mathematical and programmatic foundations required for High-Frequency Trading (HFT) and Quantitative Engineering.
+I am a Computer and Information Sciences undergraduate at **Siddaganga Institute of Technology (SIT)**. I build systems where hardware constraints, software logic, and real-world failure modes must all agree. 
 
-- ⚡ **Current Focus:** Deep Python state management, OOP, and transitioning into the C++ Crucible.
-- 🚀 **Active Execution:** 100 Days of Algorithmic Code (Focusing on logic derivation, not syntax copying).
-- ⚙️ **Domain Interests:** Market Microstructure, < 2us Latency Systems, Applied Probability, and Hardware/IoT.
-- 🎓 **Academics:** Maintaining an  9.50+ CGPA baseline while independently mastering low-level systems.
+What sets my background apart is execution across the stack—from silicon to script. Whether I am translating raw environmental sensor data into actionable signals or defending AI architecture to a judging panel, my focus is on building scalable, legible, and highly functional engineering solutions.
 
-<br/>
+### ⚡ Current Focus & Active Execution
+*   **Backend & Systems:** Deepening backend engineering skills through structured coursework, with AI integration as the next deliberate step. 
+*   **Algorithmic Rigor:** Active member of **GeeksforGeeks**, daily cross-referencing platform solutions against personal implementations to sharpen efficiency and code readability.
+*   **Building in Public:** Recently completed the **100 Days of Python Challenge**—a public, daily discipline of shipping everything from automation tools to real-world scripts.
 
-## 🛠️ The Core Stack
+---
+## 🛠️ Technical Arsenal 
+I do not build frontends. I build systems, memory-safe environments, and hardware logic.
+
+| Domain | Technologies / Focus |
+| :--- | :--- |
+| **Core Languages** | Python, C++, C, JavaScript |
+| **Engineering & Logic** | Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design |
+| **Hardware & IoT** | Microcontrollers, ESP32, Arduino Nano, Embedded Systems |
+| **Tools & Infrastructure** | Git/GitHub, LaTeX/Overleaf, Technical Documentation |
+
 
 I do not build frontends. I build systems, memory-safe environments, and hardware logic.
 
@@ -34,6 +44,32 @@ I do not build frontends. I build systems, memory-safe environments, and hardwar
 </p>
 
 <br/>
+
+
+
+---
+
+## 🏆 Featured Builds & Architecture
+
+### 1. 100 Days of Python — 
+A completed, public log of 100 days of daily Python builds. This repository contains scalable automation scripts, small tools, and real applications. Every project is documented and committed—a verifiable record of applied, disciplined Python engineering.
+
+### 2. Fruit Health Monitoring System — 
+A team-built freshness monitoring system utilizing an Arduino Nano and environmental sensors. Focused heavily on hardware-to-logic thinking, I translated raw sensor data into real-time freshness signals. The full system design and sensor logic are documented end-to-end.
+
+### 3. NeuroTrace AI — 
+Conceptualized an AI-driven system model from architecture through implementation logic. I presented and successfully defended the project framework and technical reasoning live at a collegiate Pitchathon.
+
+---
+
+## 🌎 Community & Leadership
+
+Outside of pure build time, I manage real people and outreach:
+*   **Board of Directors, Lions Club International (Tumakuru):** Directing community initiative planning and managing operational logistics for local service projects.
+*   **College Ambassador, Unlox Academy:** Building a student community around career-readiness initiatives and acting as the direct communication bridge for industry-relevant learning pathways.
+
+---
+
 
 
 
@@ -65,6 +101,3 @@ I do not build frontends. I build systems, memory-safe environments, and hardwar
 
 <br/>
 
-<p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</p>
